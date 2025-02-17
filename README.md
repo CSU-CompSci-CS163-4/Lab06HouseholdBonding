@@ -21,4 +21,4 @@ For instructions on completing these methods, see the [Javadoc](https://csu-comp
 Make sure to test your work. Some of the methods are tested for you in main, but be sure to add your own tests!
 
 # Step 3 -- Turning It In
-Once you're done writing and testing the methods, go ahead and submit your files to Zybooks!
+Once you're done writing and testing the methods. Zip all Four files (Child.java, Dog.java, Guardian.java, & Household.java) into one zip file and submit that to canvas
